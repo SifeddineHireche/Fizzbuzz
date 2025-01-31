@@ -1,0 +1,91 @@
+
+r	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(æžÄ„H‡RMAJORZ
+CODE_SMELL
+r	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(æžÄ„HˆRMAJORZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(‘Ø˜¬H‰RMAJORZ
+CODE_SMELL
+d	java:S1064"9Replace this use of System.out or System.err by a logger.(¬ âÃHŠRMAJORZ
+CODE_SMELL
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(˜×˜H‹RMAJORZ
+CODE_SMELL
+c	java:S1066"9Replace this use of System.out or System.err by a logger.(ëÑÿHŒRMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(ïíÞ¶øÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(µÈóªþÿÿÿÿHŽRMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(å¬é“úÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106:"9Replace this use of System.out or System.err by a logger.(ÞóÒíHRMAJORZ
+CODE_SMELL
+d	java:S106;"9Replace this use of System.out or System.err by a logger.(Ç›ƒ¡H‘RMAJORZ
+CODE_SMELL
+d	java:S106B"9Replace this use of System.out or System.err by a logger.(©ÃÊ†H’RMAJORZ
+CODE_SMELL
+i	java:S106G"9Replace this use of System.out or System.err by a logger.(ñß¤ÝûÿÿÿÿH“RMAJORZ
+CODE_SMELL
+d	java:S106L"9Replace this use of System.out or System.err by a logger.(ï×ïH”RMAJORZ
+CODE_SMELL
+i	java:S106Q"9Replace this use of System.out or System.err by a logger.(¥ÍÔ¼øÿÿÿÿH•RMAJORZ
+CODE_SMELL
+c	java:S106V"9Replace this use of System.out or System.err by a logger.(—ßèH–RMAJORZ
+CODE_SMELL
+i	java:S106X"9Replace this use of System.out or System.err by a logger.(œœ‰óúÿÿÿÿH—RMAJORZ
+CODE_SMELL
+d	java:S106Z"9Replace this use of System.out or System.err by a logger.( û’•H˜RMAJORZ
+CODE_SMELL
+d	java:S106_"9Replace this use of System.out or System.err by a logger.(Š‹–ÙH™RMAJORZ
+CODE_SMELL
+i	java:S106a"9Replace this use of System.out or System.err by a logger.(œœ‰óúÿÿÿÿHšRMAJORZ
+CODE_SMELL
+d	java:S106c"9Replace this use of System.out or System.err by a logger.(€™¼¨H›RMAJORZ
+CODE_SMELL
+d	java:S106h"9Replace this use of System.out or System.err by a logger.(Š‹–ÙHœRMAJORZ
+CODE_SMELL
+i	java:S106j"9Replace this use of System.out or System.err by a logger.(œœ‰óúÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106o"9Replace this use of System.out or System.err by a logger.(Þ‡û ýÿÿÿÿHžRMAJORZ
+CODE_SMELL
+d	java:S106s"9Replace this use of System.out or System.err by a logger.(Ï–×HŸRMAJORZ
+CODE_SMELL
+ˆ
+java:S3252‹"SUse static access with "org.hl7.fhir.instance.model.api.IAnyResource" for "RES_ID".(š§£†ùÿÿÿÿH RCRITICALZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Íµ»ÂüÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+e	java:S106“"9Replace this use of System.out or System.err by a logger.(ŸßÖ½H£RMAJORZ
+CODE_SMELL
+ˆ
+java:S3252¾"SUse static access with "org.hl7.fhir.instance.model.api.IAnyResource" for "RES_ID".(²æÑÊûÿÿÿÿH¤RCRITICALZ
+CODE_SMELL
+j	java:S106Ã"9Replace this use of System.out or System.err by a logger.(¬€Á¢úÿÿÿÿH¦RMAJORZ
+CODE_SMELL
+e	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ŸßÖ½H§RMAJORZ
+CODE_SMELL
+s
+java:S1117é"ARename "fhirServerUrl" which hides the field declared at line 31.(“‚”²ýÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+e	java:S106‡"9Replace this use of System.out or System.err by a logger.(ŸßÖ½H©RMAJORZ
+CODE_SMELL
+‘
+java:S1192œ"aDefine a constant instead of duplicating this literal "Error al procesar la solicitud: " 7 times.(˜÷äÖHªRCRITICALZ
+CODE_SMELL
+{
+java:S1192œ"KDefine a constant instead of duplicating this literal "processing" 8 times.(˜÷äÖH²RCRITICALZ
+CODE_SMELL
+Œ
+java:S1192“"\Define a constant instead of duplicating this literal "Respuesta en formato JSON: " 3 times.(ŸßÖ½H»RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192š"NDefine a constant instead of duplicating this literal " is not known" 4 times.(ŒµÝùúÿÿÿÿH¿RCRITICALZ
+CODE_SMELL
+‰
+java:S1192X"UDefine a constant instead of duplicating this literal "Ingrese el cÃ³digo: " 3 times.(œœ‰óúÿÿÿÿHÄRCRITICALZ
+CODE_SMELL
+
+java:S1192š"JDefine a constant instead of duplicating this literal "not-found" 6 times.(ŒµÝùúÿÿÿÿHÈRCRITICALZ
+CODE_SMELL
+p
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(ûé³ªøÿÿÿÿHÏRMINORZ
+CODE_SMELL

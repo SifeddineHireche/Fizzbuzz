@@ -1,0 +1,6 @@
+#FileLock
+#Fri Jan 31 10:01:37 CET 2025
+server=192.168.0.10\:50585
+hostName=A24LP010
+method=file
+id=194bb98224e676be76fddc3cadf3fab9c081ae9e1a3
